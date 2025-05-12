@@ -50,10 +50,9 @@ Go to: 📍 http://127.0.0.1:5000/
 ![Screenshot (12)](https://github.com/user-attachments/assets/a4d41e28-f2c4-44f4-b1e0-07ba0db83049)
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/bdc5ef22-b3e7-47f1-a108-7cc3ed1b0ecd)
-![Screenshot (17)](https://github.com/user-attachments/assets/a178f4d2-00bc-4708-9835-5cef952efb95)
 
+![Screenshot (20)](https://github.com/user-attachments/assets/40b3f725-b170-4917-a9fb-3c23af240e01)
 
-![Screenshot (18)](https://github.com/user-attachments/assets/df93e492-492e-4461-a447-a78bf9c505a5)
+![Screenshot (21)](https://github.com/user-attachments/assets/427bd702-be10-4b96-b751-c5ae2d37953d)
 
-
-![Screenshot (19)](https://github.com/user-attachments/assets/4b87371f-4a08-42b2-8cda-ff0c3a3fde60)
+![Screenshot (22)](https://github.com/user-attachments/assets/3f372fc1-07d2-4563-9c66-c4a2746be54d)
